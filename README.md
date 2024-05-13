@@ -1,4 +1,5 @@
 //Project Overview
+
 In this Python project for Diwali sales data analysis, we aim to identify the target demographic for purchasing products from the Food, Clothing, and Electronics categories. Our analysis focuses on married women aged 26-35 years from Uttar Pradesh, Maharashtra, and Karnataka, working in the IT, Healthcare, and Aviation industries. We utilize popular libraries such as NumPy, Pandas, Matplotlib, and Seaborn for data manipulation, visualization, and analysis.
 Data Collection and Preparation
 
